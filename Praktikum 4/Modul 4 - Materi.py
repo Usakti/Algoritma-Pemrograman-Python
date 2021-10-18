@@ -56,24 +56,3 @@ while (n != 0):
     t += 1
 avg = c/(t-1)
 print("nilai rata-rata adalah: ", avg)
-
-"""
-# Tipe Data List
-makanan = ['Nasi goreng', 'Bakso', 'Siomay']
-minuman = ['Teh manis', 'Sprite', 'Thai tea']
-harga = [1000, 2500, 1750, 4000]
-
-# Tipe Data Dictionary
-biodata = {'nama': 'Adi','id':2}
-
-biodata['nama'] = 'Azhar' # Mengubah entri yang sudah ada
-biodata['college'] = "Universitas Trisakti" # Menambah entri baru
-
-# del biodata['name'] # hapus entri dengan key 'Name'
-# biodata.clear()     # hapus semua entri di dict
-# del biodata         # hapus dictionary yang sudah ada
-
-print(biodata['college'])
-print(biodata['nama'])
-
-"""
