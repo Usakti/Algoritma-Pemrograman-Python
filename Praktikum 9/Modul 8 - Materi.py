@@ -44,6 +44,12 @@ def faktorial (x):
         return 1
     else:
         return (x * faktorial(x-1))
+
+# Cara Kerja Fungsi Rekursif
+# 4 * faktorial(4 - 1) == 24 ---> Nilai Akhir
+# 3 * faktorial(3 - 1) == 6
+# 2 * faktorial(2 - 1) == 2
+# 1
     
 bil = int(input("Masukkan angka: "))
 print ("Faktorial dari", bil, "adalah", faktorial (bil))
