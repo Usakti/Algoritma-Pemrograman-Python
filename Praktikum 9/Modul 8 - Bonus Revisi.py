@@ -1,4 +1,11 @@
-
+# -*- coding: utf-8 -*-
+"""
+@Materi: Recursive Function
+@Judul: Praktikum 8 Bonus
+@Hari/Tanggal: Senin, 20210920
+@NIM: 065001900001
+@author: Azhar Rizky Zulma
+"""
 
 #mengkonversi char base16 menjadi base 10
 def searchBase(char):
